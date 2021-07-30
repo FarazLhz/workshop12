@@ -1,0 +1,3 @@
+GET http://localhost:3000/users?page=2&limit=5
+
+//posts is used to create user instead of  ---> users?page=2&limit=5
